@@ -1,6 +1,6 @@
 <?php
 
-require('fpdf/fpdf.php');
+require('fpdf.php');
 include('config.php');
 
 $pdf = new FPDF('P','mm','A4');
